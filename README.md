@@ -20,7 +20,7 @@ To configure and test basic firewall rules using **UFW** on **Kubuntu Linux**, d
 sudo ufw status
 ```
 <br>
-<img src="Screenshots/Firewall_Status.png" style="height: 200px; width: auto;">
+<img src="Screenshots/Firewall_Status.png" style="height: 100px; width: auto;">
 <br>
 
 ***🔍 Explanation:***
