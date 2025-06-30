@@ -57,7 +57,7 @@ sudo ufw allow 22
 sudo ufw status numbered
 ```
 <br>
-<img src="Screenshots/Status_Numbered.png" style="height: 100px; width: auto;">
+<img src="Screenshots/Status_Numbered.png" style="height: 200px; width: auto;">
 <br>
 
 ***🔍 Explanation:***
@@ -69,7 +69,7 @@ sudo ufw status numbered
 telnet localhost 23
 ```
 <br>
-<img src="Screenshots/Telnet_Test.png" style="height: 100px; width: auto;">
+<img src="Screenshots/Telnet_Test.png" style="height: 200px; width: auto;">
 <br>
 
 ***🔍 Explanation:***
@@ -81,7 +81,7 @@ telnet localhost 23
 sudo ufw delete <rule_number>
 ```
 <br>
-<img src="Screenshots/Deleting_Telnet_Rule.png" style="height: 100px; width: auto;">
+<img src="Screenshots/Deleting_Telnet_Rule.png" style="height: 200px; width: auto;">
 <br>
 
 ***🔍 Explanation:***
@@ -93,7 +93,7 @@ sudo ufw delete <rule_number>
 sudo ufw status verbose
 ```
 <br>
-<img src="Screenshots/Status_Verbose.png" style="height: 100px; width: auto;">
+<img src="Screenshots/Status_Verbose.png" style="height: 200px; width: auto;">
 <br>
 
 ***🔍 Explanation:***
