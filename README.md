@@ -19,8 +19,8 @@ To configure and test basic firewall rules using **UFW** on **Kubuntu Linux**, d
 ```bash
 sudo ufw status
 ```
-***📸 Screenshot:***
-<img src="Screenshots/Firewall_Status.png" style="height: 200px; width: auto;">
+<br>
+<img src="Screenshots/Firewall_Status.png" style="height: 200px; width: auto;"><br>
 ***🔍 Explanation:***
 - This command checks whether the firewall is active and displays current rules. Initially, UFW may be inactive on new installs.
 
