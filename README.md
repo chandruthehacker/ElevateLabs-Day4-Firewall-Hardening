@@ -81,7 +81,7 @@ telnet localhost 23
 sudo ufw delete <rule_number>
 ```
 <br>
-<img src="Screenshots/Deleting_Telnet_Rule.png" style="height: 200px; width: auto;">
+<img src="Screenshots/Deleting_Telnet_Rule.png" style="height: 300px; width: auto;">
 <br>
 
 ***🔍 Explanation:***
