@@ -1,4 +1,4 @@
-# 🔥 Day 4 – Firewall Configuration using UFW (Uncomplicated Firewall)
+# 🔥 Task 4 – Firewall Configuration using UFW (Uncomplicated Firewall)
 
 ## 🎯 Objective
 To configure and test basic firewall rules using **UFW** on **Kubuntu Linux**, demonstrating how to allow or block network traffic on specific ports for improved system security.
